@@ -45,10 +45,10 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=supunhg&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunhg&layout=compact&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supunhg&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -56,10 +56,8 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
 ### ⚡ GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=supunhg&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supunhg&theme=tokyo-night&hide_border=true"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supunhg"/>
 
 ---
 
