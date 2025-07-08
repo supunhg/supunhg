@@ -1,54 +1,76 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<p align="center">
-  💻 Full-Stack Developer • 🤖 AI Explorer • 🚀 Building Smart Tools
-</p>
+<h1 align="center">Hey there, I'm Supun 👨‍💻</h1>
+<h3 align="center">Cybersecurity Enthusiast • Software Developer • Network Engineer</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Goal-Oriented+Technologist;Lover+of+Code%2C+Packets%2C+and+Privacy;Always+Learning+%E2%9A%9B%EF%B8%8F;Let's+Build+Secure+Futures+Together" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on: [Project Name or idea]  
-- 🌱 Learning: [Techs you're exploring – e.g. LLMs, Rust, GraphQL]  
-- 💬 Ask me about: Web dev, GPT integrations, or dev productivity hacks  
-- 📫 How to reach me: [Email, Twitter, LinkedIn, etc.]  
-- 🧰 Fun fact: I [write haikus / built a CLI from a toaster / whatever’s quirky]
+
+- 🔒 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Digital Privacy**
+- 📡 Exploring **Networking**, **VLANs**, **Routing Protocols**, and **Wireless Security**
+- 💻 Building full-stack apps in **JavaScript**, **Node.js**, **React**, **MongoDB**, and **SQL**
+- 🧰 Also fluent in **C# (.NET)**, **Python**, and **Shell scripting**
+- 🧪 Experimenting with AI bots, blockchain identity systems, and penetration testing tools
+- 🧑‍🎓 Undergraduate in **Network Engineering**
+
+---
+
+### 🚀 Current Focus
+
+- 🤖 Developing a browser-based AI assistant: `Argus`, and its Telegram bot: `ArgusAlphaBot`
+- 🧱 Practicing with **Cisco Packet Tracer** and **Offensive Security Tools**
+- 🧠 Learning tools like **sqlmap**, **Burp Suite**, and **Wireshark** for pentesting
+- ⚙️ Contributing to open source and building impactful side projects
 
 ---
 
 ### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+```yaml
+Languages: JavaScript, Python, C#, Bash, SQL, HTML/CSS
+Backend: Node.js, Express.js, .NET
+Frontend: React.js, Tailwind, Bootstrap
+Database: MongoDB, Supabase, MS SQL Server
+Tools: Git, VS Code, Postman, Wireshark, Metasploit, sqlmap
+DevOps: Docker, GitHub Actions, Vercel, Netlify
+Cyber: Burp Suite, nmap, OWASP ZAP, Linux, Kali, Wireshark
+Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
+````
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=supunhg&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunhg&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### ⚡ GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=supunhg&theme=tokyo-night&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supunhg"/>
+
+---
+
+### 🧭 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supunhg&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/supunhewagamage"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**PeopleProfiler**](https://github.com/YOUR_USERNAME/PeopleProfiler) | AI-enhanced tool to remember, organize, and analyze personal contacts | React, Node.js, OpenAI |
-| [**DevNoteCLI**](https://github.com/YOUR_USERNAME/DevNoteCLI) | A CLI for saving, searching, and syncing developer notes | Python, SQLite |
-| [**AI ReadMe Generator**](https://github.com/YOUR_USERNAME/ai-readme-gen) | Generate a stylish GitHub README with GPT | Node, Tailwind, GPT-4 |
+<p align="center"><i>“Security is not a product, it's a process.” – Bruce Schneier</i></p>
 
 ---
-
-### 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/-@YOURHANDLE-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github)](https://yourdomain.dev)
-
----
-
-### ⚡ Fun Signature Quote
-> *"Code is the closest thing we have to magic."* – Unknown
