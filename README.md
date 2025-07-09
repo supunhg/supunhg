@@ -20,9 +20,8 @@
 
 ### 🚀 Current Focus
 
-- 🤖 Developing a browser-based AI assistant: `Argus`, and its Telegram bot: `ArgusAlphaBot`
-- 🧱 Practicing with **Cisco Packet Tracer** and **Offensive Security Tools**
-- 🧠 Learning tools like **sqlmap**, **Burp Suite**, and **Wireshark** for pentesting
+- 🤖 Developing an AI assistant: `Argus`. A long term project built on top of multiple AI agents with each acting as critical components required to make Argus as advanced as it can get. (`Synra` - Memory, `Vion` - Vision, ...)
+- 🧱 Practicing with **Offensive Security Tools** to widen my skillset
 - ⚙️ Contributing to open source and building impactful side projects
 
 ---
