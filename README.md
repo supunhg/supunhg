@@ -68,6 +68,6 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
 
 ---
 
-<p align="center"><i>Supun Hewagamage | Evolve daily, or decay quietly.</i></p>
+<p align="center">Supun Hewagamage | <i>Evolve daily, or decay quietly.</i></p>
 
 ---
