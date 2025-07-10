@@ -68,6 +68,6 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
 
 ---
 
-<p align="center"><i>“Security is not a product, it's a process.” – Bruce Schneier</i></p>
+<p align="center"><i>Supun Hewagamage | Evolve daily, or decay quietly.</i></p>
 
 ---
