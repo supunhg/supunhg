@@ -72,10 +72,6 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH SECTION -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <table>
   <tr>
     <td align="center">
