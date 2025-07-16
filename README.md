@@ -58,9 +58,14 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunhg&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=🔥%20Most%20Used%20Languages&card_width=400" />
     </td>
   </tr>
+  <tr>
+    <td colspan=2 align=center>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
 </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight&hide_border=true" />
+  
 
 </div>
 
@@ -130,13 +135,9 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-    </td>
-  </tr>
-</table>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+ 
 
 </div>
 
