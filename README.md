@@ -60,8 +60,6 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
   </tr>
 </table>
 
-<br>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight&hide_border=true" />
 
 </div>
