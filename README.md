@@ -6,7 +6,7 @@
 <h3 align="center">Cybersecurity Enthusiast • Software Developer • Network Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Goal-Oriented+Technologist;Lover+of+Code%2C+Packets%2C+and+Privacy;Always+Learning+%E2%9A%9B%EF%B8%8F;Let's+Build+Secure+Futures+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Goal-Oriented+Technologist;Lover+of+Code%2C+Packets%2C+and+Privacy;Always+Learning+%E2%9A%9B%EF%B8%8F;Let's+Build+Secure+Futures+Together" alt="Typing..." />
 </div>
 
 ---
@@ -59,7 +59,7 @@ Network: Cisco CLI, VLANs, Routing Protocols, DHCP, VPN
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center>
+    <td width="100%" colspan=2 align=center>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
