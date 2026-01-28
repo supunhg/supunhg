@@ -140,7 +140,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=The%20End&fontSize=20&animation=twinkling&fontAlignY=75"/>
 </div>
 
 <p align="center"><i>"Evolve daily, or decay quietly."</i></p>
