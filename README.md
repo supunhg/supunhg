@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/supunhg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Security+Tool+Developer;Red+Teamer+%26+Pentester;Continuously+Learning+and+Evolving" alt="Typing..." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Mobile+App+Developer;Systems+%26+Server+Admin;Offensive+Security+Specialist;Security+Tool+Developer" alt="Typing..." />
   </a>
 </div>
 
@@ -17,19 +17,19 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated **Offensive Security Specialist** and **Security Tool Developer** with a passion for building robust security frameworks and identifying critical vulnerabilities. I actively participate in CTF competitions and am constantly expanding my knowledge in malware analysis, reverse engineering, and web exploitation.
+I am a versatile **Systems Developer & Security Specialist** with a passion for building end-to-end solutions. My expertise spans across full-stack web and cross-platform mobile development, server administration, Active Directory management, and offensive security. Whether I'm architecting scalable systems, developing advanced tools, or competing in CTFs, I love solving complex technical challenges.
 
-- 🎯 **Current Focus:** Building advanced offensive security tools & preparing for industry certifications.
+- 🎯 **Current Focus:** Building scalable web/mobile apps, advanced security tools, & preparing for industry certifications.
 - 🏢 **Education:** HND Student at NIBM | Diploma Graduate (GPA: 3.83/4.0)
-- 💡 **Specialties:** Web Exploitation, Malware Analysis, Reverse Engineering, Network Security.
+- 💡 **Specialties:** Full-Stack & Mobile Development, Systems Administration, Active Directory, Offensive Security.
 
 <br>
 
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,js,bash,powershell&theme=dark" /><br><br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,git,github,mysql,sqlite,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts,react,nodejs,bash,powershell&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,git,mysql,aws,gcp&theme=dark" />
 </div>
 
 <br>
