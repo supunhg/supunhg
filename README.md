@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1f6feb,58a6ff&height=250&section=header&text=Supun%20Hewagamage&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Offensive%20Security%20%E2%80%A2%20Security%20Tool%20Developer&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=250&section=header&text=Supun%20Hewagamage&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Offensive%20Security%20%E2%80%A2%20Security%20Tool%20Developer&descAlignY=55&descSize=20"/>
 </div>
 
 <div align="center">
@@ -69,17 +69,19 @@ I am a dedicated **Offensive Security Specialist** and **Security Tool Developer
 
 ## 📊 Performance & Analytics
 
+> **Note:** The public servers for GitHub Readme Stats and Activity Graph occasionally experience downtime. If the images below are missing, they should return once the community servers are back online.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supunhg&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&ring_color=58a6ff" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunhg&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supunhg&show_icons=true&theme=github_dark" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunhg&layout=compact&theme=github_dark" height="192px"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunhg&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" height="192px"/>
+  <img src="https://streak-stats.demolab.com?user=supunhg&theme=github-dark" height="192px"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supunhg&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supunhg&theme=github-dark" width="100%" />
 </div>
 
 <br>
@@ -103,5 +105,5 @@ I am a dedicated **Offensive Security Specialist** and **Security Tool Developer
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=58a6ff,1f6feb,0d1117&height=100&section=footer&text=EOF&fontSize=20&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=100&section=footer&animation=twinkling"/>
 </div>
