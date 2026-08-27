@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a versatile **Systems Developer & Security Specialist** with a passion for building end-to-end solutions. My expertise spans across full-stack web and cross-platform mobile development, server administration, Active Directory management, and offensive security. Whether I'm architecting scalable systems, developing advanced tools, or competing in CTFs, I love solving complex technical challenges.
+I am a versatile **Systems Developer & Security Specialist** with a passion for building end-to-end solutions. My expertise spans across full-stack web and cross-platform mobile development, server administration, Active Directory management, and offensive security. Whether I'm architecting scalable systems, securing server environments, or developing advanced tools, I love solving complex technical challenges.
 
 - 🎯 **Current Focus:** Building scalable web/mobile apps, advanced security tools, & preparing for industry certifications.
 - 🏢 **Education:** HND Student at NIBM | Diploma Graduate (GPA: 3.83/4.0)
